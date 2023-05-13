@@ -1,0 +1,4 @@
+-The gifs may need to stay fixed. Ive tried it but nothing seems to work.
+-There is no page for user to edit their profile details.
+-There is no page for users to view their BMI as set in the database.
+
